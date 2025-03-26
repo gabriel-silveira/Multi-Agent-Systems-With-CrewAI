@@ -1,2 +1,6 @@
 .venv
 .idea
+content-writer/.venv
+content-writer/.idea
+customer-support/.venv
+customer-support/.idea
